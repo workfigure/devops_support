@@ -1,0 +1,32 @@
+__pycache__/
+*.pyc
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# PyCharm project files
+.idea/
+
+# MacOS files
+.DS_Store
+
+# dotenv environment files (if you store secrets in .env)
+.env
+
